@@ -5,11 +5,10 @@
     <p align="center">Estudo Desenvolvimento Web e também sou discente de Ciência da computação na <a href="https://www.instagram.com/ufpa_oficial/"><i>UFPA</i></a>. Além disso, sou bolsista no <a href="https://ppgcc.propesp.ufpa.br/index.php/br/pesquisa/grupos-de-pesquisa">LabSC</a> (Laborátrio de Segurança e Criptografia Aplicada).<p align="center">
   
   <div align="center">
-    <a href="https://github.com/duribeiro">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Logan-cic&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-cic&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
-  </div>
+  <a href="https://github.com/Logan-cic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Logan-cic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-cic&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   <div align="center" valign="top"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -19,7 +18,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-    <img align="center" alt="VS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="center" alt="VS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /><br><br/>
   
   <div align="center">
     <a href="https://www.instagram.com/mr.logann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
