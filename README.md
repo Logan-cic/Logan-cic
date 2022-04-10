@@ -1,4 +1,4 @@
-##Oiii eu sou o Logan!
+<h1>Oiii eu sou o Logan!<h1/>
 <div>
     <p align="center">Estudo Desenvolvimento Web e também sou discente de Ciência da computação na <a href="https://www.instagram.com/ufpa_oficial/"><i>UFPA</i></a>. Além disso, sou bolsista no <a href="https://ppgcc.propesp.ufpa.br/index.php/br/pesquisa/grupos-de-pesquisa">LabSC</a> (Laborátrio de Segurança e Criptografia Aplicada).<p align="center">
   
