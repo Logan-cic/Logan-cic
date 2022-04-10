@@ -1,6 +1,5 @@
-
+##Oiii eu sou o Logan!
 <div>
-    <h1 align="center">Oi Tudo bem? me chamo <a href="https://www.linkedin.com/in/davison-cardoso-168344237/"><i>Davison Logan</i></a>, mas você pode me chamar de Logan.😃️</h1>
     <p align="center">Estudo Desenvolvimento Web e também sou discente de Ciência da computação na <a href="https://www.instagram.com/ufpa_oficial/"><i>UFPA</i></a>. Além disso, sou bolsista no <a href="https://ppgcc.propesp.ufpa.br/index.php/br/pesquisa/grupos-de-pesquisa">LabSC</a> (Laborátrio de Segurança e Criptografia Aplicada).<p align="center">
   
   <div align="center">
