@@ -1,4 +1,4 @@
-
+<!-- 
 <div align="center">
     
   <a href="https://github.com/Logan-cic">
@@ -18,5 +18,28 @@
     <a href="mailto:logancardoso4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
  </div>
   
-
+ -->
   
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+
+
+# Welcome!
+## I'm Logan! Let me present a little about myself :D
+      
+At the moment study backend focused in Django 
+Framework | computer science student at the federal university of pará
+
+Lover of Technology and coding :heart:
+
+
+
+## About me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
+(https://github.com/Logan-cic)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/davison-cardoso-168344237/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:logancardoso4@gmail.com)
+
+
+- Thanks for visiting. 
+- Enjoy it!! o/
