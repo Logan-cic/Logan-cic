@@ -21,7 +21,8 @@
  -->
  
  
-<img align="right" width="380" height="380" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b76110c329c81ba82d80099ba1320ad639231f1a525ac&rid=giphy.gif&ct=g">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+
 # Welcome!
 ## I'm Logan! Let me present a little about myself :D
       
