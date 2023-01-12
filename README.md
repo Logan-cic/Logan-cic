@@ -19,9 +19,9 @@
  </div>
   
  -->
-  
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Cmr1OMJ2FN0B2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">via GIPHY</a></p>
-
+ 
+ 
+<img align="right" width="380" height="380" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b76110c329c81ba82d80099ba1320ad639231f1a525ac&rid=giphy.gif&ct=g">
 # Welcome!
 ## I'm Logan! Let me present a little about myself :D
       
