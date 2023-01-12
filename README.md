@@ -20,8 +20,7 @@
   
  -->
   
-<img align="right" width="380" height="380" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-
+<img align="right" width="380" height="380" src="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">
 
 # Welcome!
 ## I'm Logan! Let me present a little about myself :D
