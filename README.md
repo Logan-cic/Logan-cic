@@ -26,7 +26,7 @@
 # Welcome!
 ## I'm Logan! Let me present a little about myself :D
       
-At the moment study backend focused in Django 
+At the moment study backend focused in Elixir 
 Framework | computer science student at the federal university of pará
 
 Lover of Technology and coding :heart:
