@@ -31,7 +31,10 @@ Framework | computer science student at the federal university of pará
 
 Lover of Technology and coding :heart:
 
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logan-cic&show_icons=true&theme=dark&locale=en" alt="logan-cic" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=logan-cic&show_icons=true&theme=dark&locale=en&layout=compact" alt="logan-cic" />
+</div
 
 ## About me 
 
